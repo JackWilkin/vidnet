@@ -1,1 +1,0 @@
-export const applicationStates = { "start", "end", "display" };

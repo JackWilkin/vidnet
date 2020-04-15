@@ -1,5 +1,5 @@
 {
-  "name": "narrative",
+  "name": "vinet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,7 +30,7 @@
       "no-restricted-globals": 0
     }
   },
-  "homepage": "http://jackwilkin.github.io/narrative",
+  "homepage": "http://jackwilkin.github.io/vidnet",
   "browserslist": {
     "production": [
       ">0.2%",

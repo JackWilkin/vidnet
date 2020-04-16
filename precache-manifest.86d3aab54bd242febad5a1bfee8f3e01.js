@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da168330757c64bff1564aa152f4962f",
+    "revision": "e5d6696dc1ea597af17b5fd7e27a5645",
     "url": "/vidnet/index.html"
   },
   {
-    "revision": "184ac27db5683dcdd5a2",
+    "revision": "1de8dbb63a39652c6a5a",
     "url": "/vidnet/static/css/2.1af7a3c5.chunk.css"
   },
   {
-    "revision": "d360a3856c336a5f102f",
+    "revision": "3a8831f191ce8d6fb250",
     "url": "/vidnet/static/css/main.b458ab9c.chunk.css"
   },
   {
-    "revision": "184ac27db5683dcdd5a2",
-    "url": "/vidnet/static/js/2.f3969675.chunk.js"
+    "revision": "1de8dbb63a39652c6a5a",
+    "url": "/vidnet/static/js/2.0b225d27.chunk.js"
   },
   {
-    "revision": "d360a3856c336a5f102f",
-    "url": "/vidnet/static/js/main.a7d4a9b6.chunk.js"
+    "revision": "3a8831f191ce8d6fb250",
+    "url": "/vidnet/static/js/main.58abc3ed.chunk.js"
   },
   {
     "revision": "e3d34b92d71ce65ed497",

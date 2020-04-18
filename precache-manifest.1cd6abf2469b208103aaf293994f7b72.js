@@ -1,27 +1,23 @@
-self.__precacheManifest = (self.__precacheManifest || []).concat([
+self.__precacheManifest = [
   {
-    "revision": "e5d6696dc1ea597af17b5fd7e27a5645",
-    "url": "/vidnet/index.html"
+    "revision": "b9602993607fc5e7531b22dbfdb68381",
+    "url": "/vidnet/static/media/pizza-face.b9602993.mov"
   },
   {
-    "revision": "1de8dbb63a39652c6a5a",
-    "url": "/vidnet/static/css/2.1af7a3c5.chunk.css"
+    "revision": "8ba1fecce40b8c58af7a",
+    "url": "/vidnet/static/css/main.31c619eb.chunk.css"
   },
   {
-    "revision": "3a8831f191ce8d6fb250",
-    "url": "/vidnet/static/css/main.b458ab9c.chunk.css"
+    "revision": "ac6e9f7149b5506dcd97",
+    "url": "/vidnet/static/js/runtime~main.15098049.js"
   },
   {
-    "revision": "1de8dbb63a39652c6a5a",
-    "url": "/vidnet/static/js/2.0b225d27.chunk.js"
+    "revision": "58c519867146123facebaac1e215f23e",
+    "url": "/vidnet/static/media/zoo.58c51986.mov"
   },
   {
-    "revision": "3a8831f191ce8d6fb250",
-    "url": "/vidnet/static/js/main.58abc3ed.chunk.js"
-  },
-  {
-    "revision": "e3d34b92d71ce65ed497",
-    "url": "/vidnet/static/js/runtime-main.5fbf5c78.js"
+    "revision": "02abaa2fb8f596730579",
+    "url": "/vidnet/static/js/2.7096f2bd.chunk.js"
   },
   {
     "revision": "536937c439f975794eb467ce4d8afc6d",
@@ -208,8 +204,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vidnet/static/media/otter.984f1b19.mov"
   },
   {
-    "revision": "b9602993607fc5e7531b22dbfdb68381",
-    "url": "/vidnet/static/media/pizza-face.b9602993.mov"
+    "revision": "8ba1fecce40b8c58af7a",
+    "url": "/vidnet/static/js/main.e486f1fb.chunk.js"
   },
   {
     "revision": "2ab888981d69807a6c3836c375b60b03",
@@ -408,7 +404,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vidnet/static/media/zamboni.655da73a.mov"
   },
   {
-    "revision": "58c519867146123facebaac1e215f23e",
-    "url": "/vidnet/static/media/zoo.58c51986.mov"
+    "revision": "02abaa2fb8f596730579",
+    "url": "/vidnet/static/css/2.d4a43b54.chunk.css"
+  },
+  {
+    "revision": "9e781ae81df3a92ad1ca6607ac029ee2",
+    "url": "/vidnet/index.html"
   }
-]);
+];

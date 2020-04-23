@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/vidnet/static/media/pizza-face.b9602993.mov"
   },
   {
-    "revision": "8ba1fecce40b8c58af7a",
+    "revision": "a2e913837820197cc4e7",
     "url": "/vidnet/static/css/main.31c619eb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/vidnet/static/media/zoo.58c51986.mov"
   },
   {
-    "revision": "02abaa2fb8f596730579",
-    "url": "/vidnet/static/js/2.7096f2bd.chunk.js"
+    "revision": "75ceb3d85079644811ea",
+    "url": "/vidnet/static/js/2.245e950a.chunk.js"
   },
   {
     "revision": "536937c439f975794eb467ce4d8afc6d",
@@ -204,8 +204,8 @@ self.__precacheManifest = [
     "url": "/vidnet/static/media/otter.984f1b19.mov"
   },
   {
-    "revision": "8ba1fecce40b8c58af7a",
-    "url": "/vidnet/static/js/main.e486f1fb.chunk.js"
+    "revision": "a2e913837820197cc4e7",
+    "url": "/vidnet/static/js/main.bb781ac7.chunk.js"
   },
   {
     "revision": "2ab888981d69807a6c3836c375b60b03",
@@ -404,11 +404,11 @@ self.__precacheManifest = [
     "url": "/vidnet/static/media/zamboni.655da73a.mov"
   },
   {
-    "revision": "02abaa2fb8f596730579",
+    "revision": "75ceb3d85079644811ea",
     "url": "/vidnet/static/css/2.d4a43b54.chunk.css"
   },
   {
-    "revision": "9e781ae81df3a92ad1ca6607ac029ee2",
+    "revision": "d35555b4e091d0d37058b50abc75ece7",
     "url": "/vidnet/index.html"
   }
 ];
